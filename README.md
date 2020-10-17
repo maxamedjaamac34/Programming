@@ -1,2 +1,2 @@
 # Programming
-Here I will my codes and share with others
+Here I will write and review my codes and share with others
